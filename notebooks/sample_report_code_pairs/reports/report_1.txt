@@ -1,0 +1,59 @@
+**Clinical History:**
+
+John Doe is a 67-year-old male with a history of PCM in remission. He presents with persistent cough and chest discomfort. Imaging studies revealed mediastinal lymphadenopathy.
+
+**Diagnosis:**
+
+Peripheral blood smear and bone marrow, right posterior iliac crest, aspirate smears, touch preparation, clot and core biopsy:
+
+1. Morphologic and immunophenotypic evidence of Hodgkin lymphoma, mixed cellularity type, involving intrathoracic lymph nodes.
+2. Hypercellular marrow for age (80% cellularity) with trilineage hematopoiesis, and no increase in blasts; see comment.
+3. Peripheral blood with mild anemia and leukocytosis.
+
+**COMMENT:**
+
+The bone marrow biopsy reveals a hypercellular marrow with a mixed population of lymphoid cells, including Reed-Sternberg cells, which are characteristic of Hodgkin lymphoma. Immunohistochemical stains show CD30 and CD15 positivity in the Reed-Sternberg cells, consistent with mixed cellularity Hodgkin lymphoma. Flow cytometry on the concurrent sample confirms the presence of an abnormal lymphoid population with a phenotype consistent with Hodgkin lymphoma. 
+
+Clinical correlation is recommended to assess the extent of disease involvement in the intrathoracic lymph nodes.
+
+**ANCILLARY STUDY PLAN:**
+
+Flow cytometric immunophenotyping: Completed (see separate report for complete results)
+Cytogenetics: Await
+Additional Studies: Await FISH for specific chromosomal abnormalities associated with Hodgkin lymphoma.
+
+**PERIPHERAL BLOOD:**
+
+The findings are consistent with the results of the concurrent complete blood count. The red cells show mild anisopoikilocytosis. The white blood cells are composed predominantly of mature neutrophils, lymphocytes, and monocytes. No circulating blasts or plasma cells are identified.
+
+**ASPIRATE SMEAR:**
+
+The aspirate material is adequate for evaluation. Cellular marrow particles are present showing maturing trilineage hematopoiesis. Granulocytic and erythroid precursors demonstrate a full spectrum of maturation and no significant dysplastic changes are identified. Plasma cells are not overtly increased, and no large aggregates are identified. Blasts are <5% of the total nucleated cell population. Megakaryocytes are present and have a normal range of morphology.
+
+**TOUCH IMPRINT:**
+
+Sparsely cellular material with mixed hematopoietic precursors consistent with the aspirate smear.
+
+**CLOT SECTION:**
+
+A few cellular particles are present showing maturing granulocytic and erythroid cells in keeping with the aspirate smears. No aggregates of blasts or plasma cells are identified.
+
+**BIOPSY:**
+
+The bone marrow biopsy sections are adequate for evaluation. The bone marrow is hypercellular (approximately 80% cellularity). There is normal maturation in the granulocytic and erythroid lineages with a granulocytic:erythroid ratio of ~2-3:1. Reed-Sternberg cells are identified, and no aggregates of plasma cells or lymphoid cells are identified. Megakaryocytes are normal in number and have unremarkable morphology.
+
+**CYTOGENETICS:**
+
+Pending. Results will be reported as an addendum.
+
+**IMMUNOPHENOTYPING:**
+
+See separate UCSF flow cytometry report (IM16-#). Summary of pertinent findings: Presence of CD30 and CD15 positive Reed-Sternberg cells.
+
+See separate University of Washington Medical Center, Seattle flow cytometry report for MRD (HP18- ). Summary of pertinent findings: Consistent with Hodgkin lymphoma.
+
+**IHC:**
+
+Additional stains were performed and evaluated to further characterize the lymphoid population (CD30, CD15, PAX-5). CD30 and CD15 show strong positivity in Reed-Sternberg cells. PAX-5 is weakly positive, supporting the diagnosis of Hodgkin lymphoma.
+
+Congo Red is negative for amyloid deposition under examination by polarized light; small vessels are present in the section.

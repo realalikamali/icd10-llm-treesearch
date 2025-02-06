@@ -1,0 +1,57 @@
+**Clinical History:**
+
+John Doe is a 67-year-old male with a history of mantle cell lymphoma, previously treated and currently under surveillance for disease status.
+
+**Diagnosis:**
+
+Peripheral blood smear and bone marrow, right posterior iliac crest, aspirate smears, touch preparation, clot and core biopsy:
+
+1. Evidence of mantle cell lymphoma involving the bone marrow; see comment.
+2. Hypercellular marrow for age (80% cellularity) with trilineage hematopoiesis and increased lymphoid infiltrate; see comment.
+3. Peripheral blood with lymphocytosis.
+
+**COMMENT:**
+
+The bone marrow biopsy reveals a hypercellular marrow with an interstitial and nodular infiltrate of small to medium-sized lymphoid cells. Immunohistochemical stains demonstrate these cells are positive for CD20, CD5, and cyclin D1, consistent with mantle cell lymphoma. Flow cytometry confirms a monoclonal B-cell population co-expressing CD19, CD20, CD5, and lambda light chain restriction. There is no significant increase in blasts, and plasma cells are not increased by morphology. Clinical correlation is recommended to assess for potential intrathoracic lymph node involvement.
+
+**ANCILLARY STUDY PLAN:**
+
+Flow cytometric immunophenotyping: Completed (see separate report for complete results)
+Cytogenetics: Await
+Additional Studies: Await FISH for t(11;14) translocation
+
+**PERIPHERAL BLOOD:**
+
+The findings are consistent with the results of the concurrent complete blood count. The red cells and platelets show no significant morphologic abnormalities. There is a mild lymphocytosis with no circulating blasts or plasma cells identified.
+
+**ASPIRATE SMEAR:**
+
+The aspirate material is adequate for evaluation. Cellular marrow particles are present showing maturing trilineage hematopoiesis. There is an increased population of small to medium-sized lymphoid cells. Blasts are <5% of the total nucleated cell population. Megakaryocytes are present and have a normal range of morphology.
+
+**Bone Marrow Aspirate Manual Differential (cell count = 200; normal adult range within parentheses):**
+
+Blasts 1% (0-1), Promyelocytes 2% (1-3), Myelocytes 5% (2-10), Metamyelocytes 10% (5-15), Band forms 15% (10-40), Segmented neutrophils 20% (10-30), Monocytes 3% (0-3), Eosinophils 2% (0-3), Basophils 0% (0-1), Erythroids 25% (0-34), Lymphs 17% (5-15), Plasma cells 0% (0-3)
+
+**TOUCH IMPRINT:**
+
+Sparsely cellular material with mixed hematopoietic precursors and increased lymphoid cells consistent with the aspirate smear.
+
+**CLOT SECTION:**
+
+A few cellular particles are present showing maturing granulocytic and erythroid cells in keeping with the aspirate smears. Increased lymphoid infiltrate is noted.
+
+**BIOPSY:**
+
+The bone marrow biopsy sections are adequate for evaluation. The bone marrow is hypercellular (approximately 80% cellularity). There is normal maturation in the granulocytic and erythroid lineages with a granulocytic:erythroid ratio of ~2-3:1. An interstitial and nodular infiltrate of lymphoid cells is identified. Megakaryocytes are normal in number and have unremarkable morphology.
+
+**CYTOGENETICS:**
+
+Pending. Results will be reported as an addendum.
+
+**IMMUNOPHENOTYPING:**
+
+See separate UCSF flow cytometry report (IM16-#). Summary of pertinent findings: Monoclonal B-cell population co-expressing CD19, CD20, CD5, and lambda light chain restriction.
+
+**IHC:**
+
+Additional stains were performed and evaluated to further characterize the lymphoid population (CD20, CD5, cyclin D1). CD20 shows strong positivity in the lymphoid infiltrate. CD5 and cyclin D1 are positive, supporting the diagnosis of mantle cell lymphoma.

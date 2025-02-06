@@ -1,0 +1,59 @@
+Clinical History:
+John Doe is a 67 yo M with a history of PCM in remission. 
+
+Diagnosis:
+
+Peripheral blood smear and bone marrow, right posterior iliac crest, aspirate smears, touch preparation, clot and core biopsy:
+
+1.	No morphologic or immunophenotypic evidence of residual/recurrent #; see comment.
+2.	#ellular marrow for age (#0% cellularity) with trilineage hematopoiesis, and no increase in blasts; see comment.
+3.	Peripheral blood with #.
+
+COMMENT:
+
+
+Clinical correlation is recommended.
+
+Plasma cells are not increased by morphology, and immunohistochemical stains (CD138, kappa, lambda) show <5% plasma cells with polytypic light chains.  In addition, flow cytometry on the concurrent sample was negative for an abnormal plasma cell population. 
+Blasts are #% by morphology and flow cytometry performed at UW, Seattle was negative for an abnormal blast population.
+
+
+
+
+ANCILLARY STUDY PLAN:
+Flow cytometric immunophenotyping:  Completed (see separate report for complete results)
+Cytogenetics: Await
+Additional Studies: Await FISH for 
+
+
+PERIPHERAL BLOOD:  The findings are consistent with the results of the concurrent complete blood count. The red cells and platelets show no significant morphologic abnormalities. There is no overt increase in rouleaux formation. The white blood cells are composed predominantly of mature neutrophils, lymphocytes, and monocytes. No evidence of dysplasia is seen, and no circulating blasts or plasma cells are identified. 
+
+ASPIRATE SMEAR:  The aspirate material is adequate for evaluation. Cellular marrow particles are present showing maturing trilineage hematopoiesis. Granulocytic and erythroid precursors demonstrate a full spectrum of maturation and no significant dysplastic changes are identified. Plasma cells are not overtly increased, and no large aggregates are identified.  Blasts are <5% of the total nucleated cell population. Megakaryocytes are present and have a normal range of morphology.
+
+Bone Marrow Aspirate Manual Differential (cell count = 200; normal adult range within parentheses):
+Blasts #% (0-1), Promyelocytes #%(1-3), Myelocytes #% (2-10), Metamyelocytes #% (5-15), Band forms #% (10-40), Segmented neutrophils #% (10-30), Monocytes #% (0-3), Eosinophils #% (0-3), Basophils 0% (0-1), Erythroids #% (0-34), Lymphs #% (5-15), Plasma cells #%(0-3)
+TOUCH IMPRINT:  Sparsely cellular material with mixed hematopoietic precursors consistent with the aspirate smear.
+
+CLOT SECTION:  A few cellular particles are present showing maturing granulocytic and erythroid cells in keeping with the aspirate smears. No aggregates of blasts or plasma cells are identified.  
+
+BIOPSY:  The bone marrow biopsy sections are adequate for evaluation.  The bone marrow is  #cellular (approximately #% cellularity). There is normal maturation in the granulocytic and erythroid lineages with a granulocytic:erythroid ratio of ~2-3:1. No aggregates of blasts, plasma cells or lymphoid cells are identified. Megakaryocytes are normal in number and have unremarkable morphology.
+
+CYTOGENETICS: 
+Pending. Results will be reported as an addendum.
+
+IMMUNOPHENOTYPING:  
+See separate UCSF flow cytometry report (IM16-#).  Summary of pertinent findings:
+#
+
+See separate University of Washington Medical Center, Seattle flow cytometry report for MRD (HP18- ). Summary of pertinent findings:
+See separate Mayo Medical Laboratories flow cytometry report (Order# )  Summary of pertinent findings:
+#
+
+
+IHC
+Additional stains were performed and evaluated to further characterize the plasma cell population and to assess for amyloid deposition (CD138, kappa, lambda, and Congo Red).  CD138 shows ###.  Kappa and lambda demonstrate a ###.
+
+Additional immunohistochemical stains were performed and evaluated to further characterize the plasma cell population (CD138, kappa, lambda).  CD138 shows ###.  Kappa and lambda demonstrate a ###.
+
+Additional immunohistochemical stains were performed and evaluated to further characterize the blast population (CD34, TdT, and PAX-5).  
+Congo Red is ### for amyloid deposition under examination by polarized light; small vessels are present in the section.
